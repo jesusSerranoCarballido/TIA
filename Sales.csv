@@ -183,37 +183,37 @@ Microondas 1.6CuFt M0125 Negro;Contoso, Ltd;Contoso;Normal;2020;Negro;23 x 27 x 
 Microondas 1.0CuFt E0110 Negro;Contoso, Ltd;Contoso;Normal;2020;Negro;23 x 27 x 17 ;1133
 Microondas 0.9CuFt E0090 Negro;Contoso, Ltd;Contoso;Economía;2020;Negro; 22.5 x 17.5 x 14;1222
 Microondas 0.8CuFt E0080 Negro;Contoso, Ltd;Contoso;Economía;2020;Negro;33.1 x 19.3 x 15.6;997
-Calentador de agua 7.2GPM X1800 Blanco;Contoso, Ltd;;Deluxe;2020;Blanco;10.5 x 14 x 14   ;1102
-Calentador de agua 4.3GPM M1250 Blanco;Contoso, Ltd;;Normal;2020;Blanco;12.5  x 14  x 3.9 ;623
-Calentador de agua 4.0GPM M1250 Blanco;Contoso, Ltd;;Normal;2020;Blanco;12.2 x 14 x 14 ;1081
-Calentador de agua 2.6GPM E0900 Blanco;Contoso, Ltd;;Normal;2020;Blanco;4.2 x 15.2 x 15.5 ;1107
-Calentador de agua 1.5GPM E0800 Blanco;Contoso, Ltd;;Economía;2020;Blanco;11 x 2.5 x 8  ;1271
-Calentador de agua 7.2GPM X1800 Azul;Contoso, Ltd;;Deluxe;2020;Azul;8.5 x 12.2 x 22.8;783
-Calentador de agua 4.3GPM M1250 Azul;Contoso, Ltd;;Normal;2020;Azul;8.5 x 16.8 x 25.8;590
-Calentador de agua 4.0GPM M1250 Azul;Contoso, Ltd;;Normal;2020;Azul;22 x 6 x 14 ;1140
-Calentador de agua 2.6GPM E0900 Azul;Contoso, Ltd;;Normal;2020;Azul;3.2 x 7.5 x 6.5;778
-Calentador de agua 1.5GPM E0800 Azul;Contoso, Ltd;;Economía;2020;Azul;8.5 x 16.8 x 25.8;1168
-Calentador de agua 7.2GPM X1800 Verde;Contoso, Ltd;;Deluxe;2020;Verde;12.5  x 14  x 3.9 ;909
-Calentador de agua 4.3GPM M1250 Verde;Contoso, Ltd;;Normal;2020;Verde;5.4  x 3.7  x 1.5 ;588
-Calentador de agua 4.0GPM M1250 Verde;Contoso, Ltd;;Normal;2020;Verde;3.5  x 2  x 5  ;920
-Calentador de agua 2.6GPM E0900 Verde;Contoso, Ltd;;Normal;2020;Verde;6.5  x 4.5  x 4.5  ;825
-Calentador de agua 1.5GPM E0800 Verde;Contoso, Ltd;;Economía;2020;Verde;4  x 2.5  x 5.5  ;1325
-Calentador de agua 7.2GPM X1800 Plata;Contoso, Ltd;;Deluxe;2020;Plata;3.4  x 2.2  x 5  ;973
-Calentador de agua 4.3GPM M1250 Plata;Contoso, Ltd;;Normal;2020;Plata;3.2  x 5.4  x 3.2 ;699
-Calentador de agua 4.0GPM M1250 Plata;Contoso, Ltd;;Normal;2020;Plata;2.6  x 5.4  x 2.8 ;1037
-Calentador de agua 2.6GPM E0900 Plata;Contoso, Ltd;;Normal;2020;Plata;3.2  x 5.4  x 3.2 ;994
-Calentador de agua 1.5GPM E0800 Plata;Contoso, Ltd;;Economía;2020;Plata;5  x 2.4  x 3.9 ;1090
-Calentador de agua 7.2GPM X1800 Gris;Contoso, Ltd;;Deluxe;2020;Gris;4.1 x 7.9 x 14.2 ;1061
-Calentador de agua 4.3GPM M1250 Gris;Contoso, Ltd;;Normal;2020;Gris;6.9  x 10.4  x 4 ;597
-Calentador de agua 4.0GPM M1250 Gris;Contoso, Ltd;;Normal;2020;Gris;4.1 x 7.9 x 14.8;990
-Calentador de agua 2.6GPM E0900 Gris;Contoso, Ltd;;Normal;2020;Gris;6.9  x 10.4  x 4 ;771
-Calentador de agua 1.5GPM E0800 Gris;Contoso, Ltd;;Economía;2020;Gris;3.4  x 2.2  x 5  ;860
-Calentador de agua 7.2GPM X1800 Red;Contoso, Ltd;;Deluxe;2020;Red;6.9  x 10.4  x 4 ;928
-Calentador de agua 4.3GPM M1250 Red;Contoso, Ltd;;Normal;2020;Red;8.5 x 12.2 x 22.8;672
-Calentador de agua 4.0GPM M1250 Red;Contoso, Ltd;;Normal;2020;Red;5  x 2.4  x 3.9 ;929
-Calentador de agua 2.6GPM E0900 Red;Contoso, Ltd;;Normal;2020;Red;4.8  x 2.7  x 3.6 ;1086
-Calentador de agua 1.5GPM E0800 Red;Contoso, Ltd;;Economía;2020;Red;5  x 2.4  x 3.9 ;1086
-Calentador de agua 4.3GPM M1250 Amarillo;Contoso, Ltd;;Normal;2020;Amarillo;5.1  x 2.4  x 3.7 ;627
+Calentador de agua 7.2GPM X1800 Blanco;Contoso, Ltd;Contoso;Deluxe;2020;Blanco;10.5 x 14 x 14   ;1102
+Calentador de agua 4.3GPM M1250 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;12.5  x 14  x 3.9 ;623
+Calentador de agua 4.0GPM M1250 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;12.2 x 14 x 14 ;1081
+Calentador de agua 2.6GPM E0900 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;4.2 x 15.2 x 15.5 ;1107
+Calentador de agua 1.5GPM E0800 Blanco;Contoso, Ltd;Contoso;Economía;2020;Blanco;11 x 2.5 x 8  ;1271
+Calentador de agua 7.2GPM X1800 Azul;Contoso, Ltd;Contoso;Deluxe;2020;Azul;8.5 x 12.2 x 22.8;783
+Calentador de agua 4.3GPM M1250 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;8.5 x 16.8 x 25.8;590
+Calentador de agua 4.0GPM M1250 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;22 x 6 x 14 ;1140
+Calentador de agua 2.6GPM E0900 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;3.2 x 7.5 x 6.5;778
+Calentador de agua 1.5GPM E0800 Azul;Contoso, Ltd;Contoso;Economía;2020;Azul;8.5 x 16.8 x 25.8;1168
+Calentador de agua 7.2GPM X1800 Verde;Contoso, Ltd;Contoso;Deluxe;2020;Verde;12.5  x 14  x 3.9 ;909
+Calentador de agua 4.3GPM M1250 Verde;Contoso, Ltd;Contoso;Normal;2020;Verde;5.4  x 3.7  x 1.5 ;588
+Calentador de agua 4.0GPM M1250 Verde;Contoso, Ltd;Contoso;Normal;2020;Verde;3.5  x 2  x 5  ;920
+Calentador de agua 2.6GPM E0900 Verde;Contoso, Ltd;Contoso;Normal;2020;Verde;6.5  x 4.5  x 4.5  ;825
+Calentador de agua 1.5GPM E0800 Verde;Contoso, Ltd;Contoso;Economía;2020;Verde;4  x 2.5  x 5.5  ;1325
+Calentador de agua 7.2GPM X1800 Plata;Contoso, Ltd;Contoso;Deluxe;2020;Plata;3.4  x 2.2  x 5  ;973
+Calentador de agua 4.3GPM M1250 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;3.2  x 5.4  x 3.2 ;699
+Calentador de agua 4.0GPM M1250 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;2.6  x 5.4  x 2.8 ;1037
+Calentador de agua 2.6GPM E0900 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;3.2  x 5.4  x 3.2 ;994
+Calentador de agua 1.5GPM E0800 Plata;Contoso, Ltd;Contoso;Economía;2020;Plata;5  x 2.4  x 3.9 ;1090
+Calentador de agua 7.2GPM X1800 Gris;Contoso, Ltd;Contoso;Deluxe;2020;Gris;4.1 x 7.9 x 14.2 ;1061
+Calentador de agua 4.3GPM M1250 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;6.9  x 10.4  x 4 ;597
+Calentador de agua 4.0GPM M1250 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;4.1 x 7.9 x 14.8;990
+Calentador de agua 2.6GPM E0900 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;6.9  x 10.4  x 4 ;771
+Calentador de agua 1.5GPM E0800 Gris;Contoso, Ltd;Contoso;Economía;2020;Gris;3.4  x 2.2  x 5  ;860
+Calentador de agua 7.2GPM X1800 Red;Contoso, Ltd;Contoso;Deluxe;2020;Red;6.9  x 10.4  x 4 ;928
+Calentador de agua 4.3GPM M1250 Red;Contoso, Ltd;Contoso;Normal;2020;Red;8.5 x 12.2 x 22.8;672
+Calentador de agua 4.0GPM M1250 Red;Contoso, Ltd;Contoso;Normal;2020;Red;5  x 2.4  x 3.9 ;929
+Calentador de agua 2.6GPM E0900 Red;Contoso, Ltd;Contoso;Normal;2020;Red;4.8  x 2.7  x 3.6 ;1086
+Calentador de agua 1.5GPM E0800 Red;Contoso, Ltd;Contoso;Economía;2020;Red;5  x 2.4  x 3.9 ;1086
+Calentador de agua 4.3GPM M1250 Amarillo;Contoso, Ltd;Contoso;Normal;2020;Amarillo;5.1  x 2.4  x 3.7 ;627
 Cafetera superautomática 12 C X1250 Negro;Contoso, Ltd;Contoso;Deluxe;2020;Negro;15.6 x 11 x 10.5;624
 Cafetera automática 10 C M1000 Negro;Contoso, Ltd;Contoso;Normal;2020;Negro;16.6 x 12 x 10.4;516
 Cafetera 12 C M1000 Negro;Contoso, Ltd;Contoso;Normal;2020;Negro;15 x 11 x 14 ;1020
@@ -777,109 +777,109 @@ Cámara SLR X150 Verde;Fabrikam, Inc.;Fabrikam;Normal;2020;Verde;3.4 x 4.8 x 3.3
 Cámara SLR 35 pulgadas X358 Verde;Fabrikam, Inc.;Fabrikam;Normal;2020;Verde;4 x 4 x 4 ;967
 Cámara SLR M150 Verde;Fabrikam, Inc.;Fabrikam;Normal;2020;Verde;4.2 x 4 x 4 ;961
 Cámara SLR 35 pulgadas M358 Verde;Fabrikam, Inc.;Fabrikam;Economía;2020;Verde;8 x 9 x 6 ;1127
-"   Cinematógrafo doméstico y vacacional 1 "" 25 mm M400 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;3.5  x 2.6  x 2  ;1082
-  Cinematógrafo doméstico y vacacional, 1/2 '' 3 mm M300 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;2.7 x 2.8 x 4.9;954
-  Cinematógrafo doméstico y vacacional, 1/3 '' 216 mm M200 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;7.6 x 6.3 x 4.7;1120
-  Cinematógrafo doméstico y vacacional, 2/3 '' 17 mm M103 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;2.8  x 5.2  x 1.3 ;837
-"  Videoaficionado de presupuesto 1 "" 25 mm E400 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;5.5  x 5  x 1.7  ;1007
-"  Videoaficionado de presupuesto 1/2 "" 3 mm E300 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;1043
-"  Videoaficionado de presupuesto 1/3 "" 216 mm E200 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;3.5  x 3  x 2  ;968
-"  Videoaficionado de presupuesto 2/3 "" 17 mm E100 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;2.5 x 2.8 x 4.6;1162
-  Vanguardista 1 '' 25 mm X400 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;7.6 x 6 x 4.7;981
-  Vanguardista 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;2.8  x 5  x 1.3 ;1055
-  Vanguardista 1/3 '' 216 mm X200 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;4.5  x 5  x 1.7  ;1085
-  Vanguardista 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5  x 7.2  x 1.7 ;886
-  Cineasta independiente 1 '' 25 mm X400 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;7.8 x 7.8 x 3;919
-  Cineasta independiente 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;5.8  x 6.3  x 1.7 ;948
-  Cineasta independiente 1/3 '' 8,5 mm X200 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;2.75 x 2.8 x 4.9;765
-  Cineasta independiente 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;6.6 x 6.3 x 4.7;781
-  Filmador comercial 1 pulgada 25 mm M600 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;3 x 5.2  x 1.3 ;855
-  Filmador comercial 1/2 pulgada 3 mm M500 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.5  x 5  x 1.7  ;1152
-  Filmador comercial 1/3 pulgada 8.5 mm M380 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;918
-  Filmador comercial 2/3 pulgada 17 mm M280 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;3.5  x 2.6  x 2  ;880
-  Videógrafo social 1 '' 25 mm E400 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;2.7 x 2.8 x 4.9;1059
-  Videógrafo social 1/2 '' 3 mm E300 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;7.6 x 6.3 x 4.7;882
-  Videógrafo social 1/3 '' 8.5 mm E200 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;2.8  x 5.2  x 1.3 ;1060
-  Videógrafo social 2/3 '' 17 mm E100 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;5  x 7.2  x 1.7 ;1031
-  Cinematógrafo doméstico y vacacional, 1 '' 25 mm M400 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;7.8 x 7.8 x 3;1034
-  Home and Vacation Moviemaker 1/2'' 3mm M300 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;5.8  x 6.3  x 1.7 ;868
-  Home and Vacation Moviemaker 1/3'' 8.5mm M200 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;2.75 x 2.8 x 4.9;1070
-  Home and Vacation Moviemaker 2/3'' 17mm M103 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;6.6 x 6.3 x 4.7;1099
-"  Cinematógrafo de presupuesto 1 "" 25 mm E400 Blanco";Fabrikam, Inc.; ;Normal;2020;Blanco;3 x 5.2  x 1.3 ;985
-"  Cinematógrafo de presupuesto 1/2 "" 3 mm E300 Blanco";Fabrikam, Inc.; ;Normal;2020;Blanco;2.75 x 2.8 x 4.9;1035
-"  Cinematógrafo de presupuesto 1/3 "" 216 mm E200 Blanco";Fabrikam, Inc.; ;Normal;2020;Blanco;6.6 x 6.3 x 4.7;1023
-"  Cinematógrafo de presupuesto 2/3 "" 17 mm E100 Blanco";Fabrikam, Inc.; ;Normal;2020;Blanco;5  x 7.2  x 1.7 ;958
-  Vanguardista 1 '' 25 mm X400 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;7.8 x 7.8 x 3;971
-  Vanguardista 1/2 '' 3 mm X300 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;5.8  x 6.3  x 1.7 ;848
-  Vanguardista 1/3 '' 216 mm X200 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;2.75 x 2.8 x 4.9;1013
-  Vanguardista 2/3 '' 17 mm X100 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;6.6 x 6.3 x 4.7;979
-  Independent filmmaker 1'' 25mm X400 Blanco;Fabrikam, Inc.; ;Deluxe;2020;Blanco;3 x 5.2  x 1.3 ;894
-  Independent filmmaker 1/2'' 3mm X300 Blanco;Fabrikam, Inc.; ;Deluxe;2020;Blanco;2.75 x 2.8 x 4.9;629
-  Independent filmmaker 1/3'' 8.5mm X200 Blanco;Fabrikam, Inc.; ;Deluxe;2020;Blanco;6.6 x 6.3 x 4.7;748
-  Independent filmmaker 2/3'' 17mm X100 Blanco;Fabrikam, Inc.; ;Deluxe;2020;Blanco;5  x 7.2  x 1.7 ;920
-  Filmador comercial 1 pulgada 25 mm M600 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;7.6 x 6.3 x 4.7;1002
-  Filmador comercial 1/2 pulgada 3 mm M500 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;2.8  x 5.2  x 1.3 ;1151
-  Filmador comercial 1/3 pulgada 8.5 mm M380 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;5.5  x 5  x 1.7  ;1033
-  Filmador comercial 2/3 pulgada 17 mm M280 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;5.8  x 7.8  x 1.7 ;1044
-  Social Videographer 1'' 25mm E400 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;3.5  x 3  x 2  ;1263
-  Videógrafo social 1/2 '' 3 mm E300 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;2.5 x 2.8 x 4.6;1004
-  Videógrafo social 1/3 '' 8.5 mm E200 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;7.6 x 6 x 4.7;797
-  Videógrafo social 2/3 '' 17 mm E100 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;2.8  x 5  x 1.3 ;958
-  Cinematógrafo doméstico y vacacional, 1 '' 25 mm M400 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;4.5  x 5  x 1.7  ;942
-  Home and Vacation Moviemaker 1/2'' 3mm M300 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;5  x 7.2  x 1.7 ;1141
-  Home and Vacation Moviemaker 1/3'' 8.5mm M200 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;7.8 x 7.8 x 3;748
-  Home and Vacation Moviemaker 2/3'' 17mm M103 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;5.8  x 6.3  x 1.7 ;811
-"  Cinematógrafo de presupuesto 1 "" 25 mm E400 Gris";Fabrikam, Inc.; ;Normal;2020;Gris;2.75 x 2.8 x 4.9;918
-"  Cinematógrafo de presupuesto 1/2 "" 3 mm E300 Gris";Fabrikam, Inc.; ;Normal;2020;Gris;6.6 x 6.3 x 4.7;1054
-"  Cinematógrafo de presupuesto 1/3 "" 216 mm E200 Gris";Fabrikam, Inc.; ;Normal;2020;Gris;3 x 5.2  x 1.3 ;1308
-"  Cinematógrafo de presupuesto 2/3 "" 17 mm E100 Gris";Fabrikam, Inc.; ;Normal;2020;Gris;5.5  x 5  x 1.7  ;1132
-  Vanguardista 1 '' 25 mm X400 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;5.8  x 7.8  x 1.7 ;1016
-  Vanguardista 1/2 '' 3 mm X300 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;3.5  x 2.6  x 2  ;939
-  Vanguardista 1/3 '' 216 mm X200 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;2.7 x 2.8 x 4.9;1080
-  Vanguardista 2/3 '' 17 mm X100 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;7.6 x 6.3 x 4.7;1024
-  Cineasta independiente 1 '' 25 mm X400 Gris;Fabrikam, Inc.; ;Deluxe;2020;Gris;2.8  x 5.2  x 1.3 ;789
-  Cineasta independiente 1/2 '' 3 mm X300 Gris;Fabrikam, Inc.; ;Deluxe;2020;Gris;5.5  x 5  x 1.7  ;736
-  Cineasta independiente 1/3 '' 8,5 mm X200 Gris;Fabrikam, Inc.; ;Deluxe;2020;Gris;5.8  x 7.8  x 1.7 ;829
-  Cineasta independiente 2/3 '' 17 mm X100 Gris;Fabrikam, Inc.; ;Deluxe;2020;Gris;3.5  x 3  x 2  ;870
-  Filmador comercial 1 pulgada 25 mm M600 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;2.5 x 2.8 x 4.6;1179
-  Filmador comercial 1/2 pulgada 3 mm M500 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;7.6 x 6 x 4.7;940
-  Filmador comercial 1/3 pulgada 8.5 mm M380 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;2.8  x 5  x 1.3 ;983
-  Filmador comercial 2/3 pulgada 17 mm M280 Gris;Fabrikam, Inc.; ;Normal;2020;Gris;4.5  x 5  x 1.7  ;883
-  Social Videographer 1'' 25mm E400 Gris;Fabrikam, Inc.; ;Economía;2020;Gris;5  x 7.2  x 1.7 ;864
-  Videógrafo social 1/2 '' 3 mm E300 Gris;Fabrikam, Inc.; ;Economía;2020;Gris;7.8 x 7.8 x 3;1040
-  Videógrafo social 1/3 '' 8.5 mm E200 Gris;Fabrikam, Inc.; ;Economía;2020;Gris;5.8  x 6.3  x 1.7 ;835
-  Videógrafo social 2/3 '' 17 mm E100 Gris;Fabrikam, Inc.; ;Economía;2020;Gris;2.75 x 2.8 x 4.9;1043
-  Cinematógrafo doméstico y vacacional, 1 '' 25 mm M400 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;6.6 x 6.3 x 4.7;960
-  Home and Vacation Moviemaker 1/2'' 3mm M300 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;3 x 5.2  x 1.3 ;896
-  Home and Vacation Moviemaker 1/3'' 8.5mm M200 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.5  x 5  x 1.7  ;922
-  Home and Vacation Moviemaker 2/3'' 17mm M103 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;555
-"  Cinematógrafo de presupuesto 1 "" 25 mm E400 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;3.5  x 2.6  x 2  ;622
-"  Cinematógrafo de presupuesto 1/2 "" 3 mm E300 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;2.7 x 2.8 x 4.9;767
-"  Cinematógrafo de presupuesto 1/3 "" 216 mm E200 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;7.6 x 6.3 x 4.7;696
-"  Cinematógrafo de presupuesto 2/3 "" 17 mm E100 Negro";Fabrikam, Inc.; ;Normal;2020;Negro;2.8  x 5.2  x 1.3 ;925
-  Vanguardista 1 '' 25 mm X400 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.5  x 5  x 1.7  ;1295
-  Vanguardista 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;1023
-  Vanguardista 1/3 '' 216 mm X200 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;3.5  x 3  x 2  ;771
-  Vanguardista 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;2.5 x 2.8 x 4.6;1030
-  Cineasta independiente 1 '' 25 mm X400 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;7.6 x 6 x 4.7;912
-  Cineasta independiente 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;2.8  x 5  x 1.3 ;903
-  Cineasta independiente 1/3 '' 8,5 mm X200 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;4.5  x 5  x 1.7  ;774
-  Cineasta independiente 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.; ;Deluxe;2020;Negro;5  x 7.2  x 1.7 ;940
-  Filmador comercial 1 pulgada 25 mm M600 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;7.8 x 7.8 x 3;904
-  Filmador comercial 1/2 pulgada 3 mm M500 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;5.8  x 6.3  x 1.7 ;247
-  Filmador comercial 1/3 pulgada 8.5 mm M380 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;2.75 x 2.8 x 4.9;756
-  Filmador comercial 2/3 pulgada 17 mm M280 Negro;Fabrikam, Inc.; ;Normal;2020;Negro;6.6 x 6.3 x 4.7;1187
-  Social Videographer 1'' 25mm E400 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;3 x 5.2  x 1.3 ;757
-  Videógrafo social 1/2 '' 3 mm E300 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;5.5  x 5  x 1.7  ;855
-  Videógrafo social 1/3 '' 8.5 mm E200 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;5.8  x 7.8  x 1.7 ;1214
-  Videógrafo social 2/3 '' 17 mm E100 Negro;Fabrikam, Inc.; ;Economía;2020;Negro;3.5  x 2.6  x 2  ;891
-  Filmador comercial 1/2 pulgada 3 mm M500 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;2.7 x 2.8 x 4.9;346
-  Filmador comercial 1/3 pulgada 8.5 mm M380 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;7.6 x 6.3 x 4.7;956
-  Filmador comercial 2/3 pulgada 17 mm M280 Blanco;Fabrikam, Inc.; ;Normal;2020;Blanco;2.8  x 5.2  x 1.3 ;999
-  Social Videographer 1'' 25mm E400 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;5.5  x 5  x 1.7  ;1284
-  Videógrafo social 1/2 '' 3 mm E300 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;5.8  x 7.8  x 1.7 ;1247
-  Videógrafo social 1/3 '' 8.5 mm E200 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;3.5  x 3  x 2  ;1093
-  Videógrafo social 2/3 '' 17 mm E100 Blanco;Fabrikam, Inc.; ;Economía;2020;Blanco;5.8  x 7.8  x 1.7 ;1050
+"Cinematógrafo doméstico y vacacional 1 "" 25 mm M400 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3.5  x 2.6  x 2  ;1082
+Cinematógrafo doméstico y vacacional, 1/2 '' 3 mm M300 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.7 x 2.8 x 4.9;954
+Cinematógrafo doméstico y vacacional, 1/3 '' 216 mm M200 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;7.6 x 6.3 x 4.7;1120
+Cinematógrafo doméstico y vacacional, 2/3 '' 17 mm M103 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.8  x 5.2  x 1.3 ;837
+"Videoaficionado de presupuesto 1 "" 25 mm E400 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.5  x 5  x 1.7  ;1007
+"Videoaficionado de presupuesto 1/2 "" 3 mm E300 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;1043
+"Videoaficionado de presupuesto 1/3 "" 216 mm E200 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3.5  x 3  x 2  ;968
+"Videoaficionado de presupuesto 2/3 "" 17 mm E100 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.5 x 2.8 x 4.6;1162
+  Vanguardista 1 '' 25 mm X400 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;7.6 x 6 x 4.7;981
+  Vanguardista 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.8  x 5  x 1.3 ;1055
+  Vanguardista 1/3 '' 216 mm X200 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;4.5  x 5  x 1.7  ;1085
+  Vanguardista 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5  x 7.2  x 1.7 ;886
+  Cineasta independiente 1 '' 25 mm X400 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;7.8 x 7.8 x 3;919
+  Cineasta independiente 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;5.8  x 6.3  x 1.7 ;948
+  Cineasta independiente 1/3 '' 8,5 mm X200 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;2.75 x 2.8 x 4.9;765
+  Cineasta independiente 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;6.6 x 6.3 x 4.7;781
+  Filmador comercial 1 pulgada 25 mm M600 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3 x 5.2  x 1.3 ;855
+  Filmador comercial 1/2 pulgada 3 mm M500 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.5  x 5  x 1.7  ;1152
+  Filmador comercial 1/3 pulgada 8.5 mm M380 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;918
+  Filmador comercial 2/3 pulgada 17 mm M280 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3.5  x 2.6  x 2  ;880
+  Videógrafo social 1 '' 25 mm E400 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;2.7 x 2.8 x 4.9;1059
+  Videógrafo social 1/2 '' 3 mm E300 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;7.6 x 6.3 x 4.7;882
+  Videógrafo social 1/3 '' 8.5 mm E200 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;2.8  x 5.2  x 1.3 ;1060
+  Videógrafo social 2/3 '' 17 mm E100 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;5  x 7.2  x 1.7 ;1031
+  Cinematógrafo doméstico y vacacional, 1 '' 25 mm M400 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;7.8 x 7.8 x 3;1034
+  Home and Vacation Moviemaker 1/2'' 3mm M300 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;5.8  x 6.3  x 1.7 ;868
+  Home and Vacation Moviemaker 1/3'' 8.5mm M200 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;2.75 x 2.8 x 4.9;1070
+  Home and Vacation Moviemaker 2/3'' 17mm M103 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;6.6 x 6.3 x 4.7;1099
+"  Cinematógrafo de presupuesto 1 "" 25 mm E400 Blanco";Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;3 x 5.2  x 1.3 ;985
+"  Cinematógrafo de presupuesto 1/2 "" 3 mm E300 Blanco";Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;2.75 x 2.8 x 4.9;1035
+"  Cinematógrafo de presupuesto 1/3 "" 216 mm E200 Blanco";Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;6.6 x 6.3 x 4.7;1023
+"  Cinematógrafo de presupuesto 2/3 "" 17 mm E100 Blanco";Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;5  x 7.2  x 1.7 ;958
+  Vanguardista 1 '' 25 mm X400 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;7.8 x 7.8 x 3;971
+  Vanguardista 1/2 '' 3 mm X300 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;5.8  x 6.3  x 1.7 ;848
+  Vanguardista 1/3 '' 216 mm X200 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;2.75 x 2.8 x 4.9;1013
+  Vanguardista 2/3 '' 17 mm X100 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;6.6 x 6.3 x 4.7;979
+  Independent filmmaker 1'' 25mm X400 Blanco;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Blanco;3 x 5.2  x 1.3 ;894
+  Independent filmmaker 1/2'' 3mm X300 Blanco;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Blanco;2.75 x 2.8 x 4.9;629
+  Independent filmmaker 1/3'' 8.5mm X200 Blanco;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Blanco;6.6 x 6.3 x 4.7;748
+  Independent filmmaker 2/3'' 17mm X100 Blanco;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Blanco;5  x 7.2  x 1.7 ;920
+  Filmador comercial 1 pulgada 25 mm M600 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;7.6 x 6.3 x 4.7;1002
+  Filmador comercial 1/2 pulgada 3 mm M500 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;2.8  x 5.2  x 1.3 ;1151
+  Filmador comercial 1/3 pulgada 8.5 mm M380 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;5.5  x 5  x 1.7  ;1033
+  Filmador comercial 2/3 pulgada 17 mm M280 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;5.8  x 7.8  x 1.7 ;1044
+  Social Videographer 1'' 25mm E400 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;3.5  x 3  x 2  ;1263
+  Videógrafo social 1/2 '' 3 mm E300 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;2.5 x 2.8 x 4.6;1004
+  Videógrafo social 1/3 '' 8.5 mm E200 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;7.6 x 6 x 4.7;797
+  Videógrafo social 2/3 '' 17 mm E100 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;2.8  x 5  x 1.3 ;958
+  Cinematógrafo doméstico y vacacional, 1 '' 25 mm M400 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;4.5  x 5  x 1.7  ;942
+  Home and Vacation Moviemaker 1/2'' 3mm M300 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;5  x 7.2  x 1.7 ;1141
+  Home and Vacation Moviemaker 1/3'' 8.5mm M200 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;7.8 x 7.8 x 3;748
+  Home and Vacation Moviemaker 2/3'' 17mm M103 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;5.8  x 6.3  x 1.7 ;811
+"  Cinematógrafo de presupuesto 1 "" 25 mm E400 Gris";Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;2.75 x 2.8 x 4.9;918
+"  Cinematógrafo de presupuesto 1/2 "" 3 mm E300 Gris";Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;6.6 x 6.3 x 4.7;1054
+"  Cinematógrafo de presupuesto 1/3 "" 216 mm E200 Gris";Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;3 x 5.2  x 1.3 ;1308
+"  Cinematógrafo de presupuesto 2/3 "" 17 mm E100 Gris";Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;5.5  x 5  x 1.7  ;1132
+  Vanguardista 1 '' 25 mm X400 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;5.8  x 7.8  x 1.7 ;1016
+  Vanguardista 1/2 '' 3 mm X300 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;3.5  x 2.6  x 2  ;939
+  Vanguardista 1/3 '' 216 mm X200 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;2.7 x 2.8 x 4.9;1080
+  Vanguardista 2/3 '' 17 mm X100 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;7.6 x 6.3 x 4.7;1024
+  Cineasta independiente 1 '' 25 mm X400 Gris;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Gris;2.8  x 5.2  x 1.3 ;789
+  Cineasta independiente 1/2 '' 3 mm X300 Gris;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Gris;5.5  x 5  x 1.7  ;736
+  Cineasta independiente 1/3 '' 8,5 mm X200 Gris;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Gris;5.8  x 7.8  x 1.7 ;829
+  Cineasta independiente 2/3 '' 17 mm X100 Gris;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Gris;3.5  x 3  x 2  ;870
+  Filmador comercial 1 pulgada 25 mm M600 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;2.5 x 2.8 x 4.6;1179
+  Filmador comercial 1/2 pulgada 3 mm M500 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;7.6 x 6 x 4.7;940
+  Filmador comercial 1/3 pulgada 8.5 mm M380 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;2.8  x 5  x 1.3 ;983
+  Filmador comercial 2/3 pulgada 17 mm M280 Gris;Fabrikam, Inc.;Fabrikam;Normal;2020;Gris;4.5  x 5  x 1.7  ;883
+  Social Videographer 1'' 25mm E400 Gris;Fabrikam, Inc.;Fabrikam;Economía;2020;Gris;5  x 7.2  x 1.7 ;864
+  Videógrafo social 1/2 '' 3 mm E300 Gris;Fabrikam, Inc.;Fabrikam;Economía;2020;Gris;7.8 x 7.8 x 3;1040
+  Videógrafo social 1/3 '' 8.5 mm E200 Gris;Fabrikam, Inc.;Fabrikam;Economía;2020;Gris;5.8  x 6.3  x 1.7 ;835
+  Videógrafo social 2/3 '' 17 mm E100 Gris;Fabrikam, Inc.;Fabrikam;Economía;2020;Gris;2.75 x 2.8 x 4.9;1043
+  Cinematógrafo doméstico y vacacional, 1 '' 25 mm M400 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;6.6 x 6.3 x 4.7;960
+  Home and Vacation Moviemaker 1/2'' 3mm M300 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3 x 5.2  x 1.3 ;896
+  Home and Vacation Moviemaker 1/3'' 8.5mm M200 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.5  x 5  x 1.7  ;922
+  Home and Vacation Moviemaker 2/3'' 17mm M103 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;555
+"  Cinematógrafo de presupuesto 1 "" 25 mm E400 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3.5  x 2.6  x 2  ;622
+"  Cinematógrafo de presupuesto 1/2 "" 3 mm E300 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.7 x 2.8 x 4.9;767
+"  Cinematógrafo de presupuesto 1/3 "" 216 mm E200 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;7.6 x 6.3 x 4.7;696
+"  Cinematógrafo de presupuesto 2/3 "" 17 mm E100 Negro";Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.8  x 5.2  x 1.3 ;925
+  Vanguardista 1 '' 25 mm X400 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.5  x 5  x 1.7  ;1295
+  Vanguardista 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.8  x 7.8  x 1.7 ;1023
+  Vanguardista 1/3 '' 216 mm X200 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;3.5  x 3  x 2  ;771
+  Vanguardista 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.5 x 2.8 x 4.6;1030
+  Cineasta independiente 1 '' 25 mm X400 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;7.6 x 6 x 4.7;912
+  Cineasta independiente 1/2 '' 3 mm X300 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;2.8  x 5  x 1.3 ;903
+  Cineasta independiente 1/3 '' 8,5 mm X200 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;4.5  x 5  x 1.7  ;774
+  Cineasta independiente 2/3 '' 17 mm X100 Negro;Fabrikam, Inc.;Fabrikam;Deluxe;2020;Negro;5  x 7.2  x 1.7 ;940
+  Filmador comercial 1 pulgada 25 mm M600 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;7.8 x 7.8 x 3;904
+  Filmador comercial 1/2 pulgada 3 mm M500 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;5.8  x 6.3  x 1.7 ;247
+  Filmador comercial 1/3 pulgada 8.5 mm M380 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;2.75 x 2.8 x 4.9;756
+  Filmador comercial 2/3 pulgada 17 mm M280 Negro;Fabrikam, Inc.;Fabrikam;Normal;2020;Negro;6.6 x 6.3 x 4.7;1187
+  Social Videographer 1'' 25mm E400 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;3 x 5.2  x 1.3 ;757
+  Videógrafo social 1/2 '' 3 mm E300 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;5.5  x 5  x 1.7  ;855
+  Videógrafo social 1/3 '' 8.5 mm E200 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;5.8  x 7.8  x 1.7 ;1214
+  Videógrafo social 2/3 '' 17 mm E100 Negro;Fabrikam, Inc.;Fabrikam;Economía;2020;Negro;3.5  x 2.6  x 2  ;891
+  Filmador comercial 1/2 pulgada 3 mm M500 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;2.7 x 2.8 x 4.9;346
+  Filmador comercial 1/3 pulgada 8.5 mm M380 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;7.6 x 6.3 x 4.7;956
+  Filmador comercial 2/3 pulgada 17 mm M280 Blanco;Fabrikam, Inc.;Fabrikam;Normal;2020;Blanco;2.8  x 5.2  x 1.3 ;999
+  Social Videographer 1'' 25mm E400 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;5.5  x 5  x 1.7  ;1284
+  Videógrafo social 1/2 '' 3 mm E300 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;5.8  x 7.8  x 1.7 ;1247
+  Videógrafo social 1/3 '' 8.5 mm E200 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;3.5  x 3  x 2  ;1093
+  Videógrafo social 2/3 '' 17 mm E100 Blanco;Fabrikam, Inc.;Fabrikam;Economía;2020;Blanco;5.8  x 7.8  x 1.7 ;1050
 Paquete de batería Li-ion recargable E300 Plata;Contoso, Ltd;Contoso;Economía;2020;Plata;4.75 x 3.5 x 1.5;1017
 Paquete de batería Li-ion recargable E300 Negro;Contoso, Ltd;Contoso;Economía;2020;Negro;4.8 x 1.6 x 5.8;893
 Paquete de batería Li-ion recargable E300 Blanco;Contoso, Ltd;Contoso;Economía;2020;Blanco;2 x 1 x 4;862
@@ -1285,7 +1285,7 @@ Transmisor inalámbrico y auriculares Bluetooth X250 Azul;Wide World Importers;W
 Transmisor inalámbrico y auriculares Bluetooth X250 Blanco;Wide World Importers;Wide World Importers;Deluxe;2020;Blanco;5.3 x 2 x 7.4;428
 Transmisor inalámbrico y auriculares Bluetooth X250 Red;Wide World Importers;Wide World Importers;Deluxe;2020;Red;7 x 5 x 1.5;341
 Transmisor inalámbrico y auriculares Bluetooth X250 Plata;Wide World Importers;Wide World Importers;Deluxe;2020;Plata;2.5 x 6.4 x 9;350
- TV CRT de 20 pulgadas E15 Plata;Adventure Works;;Economía;2020;Plata;NULL;957
+ TV CRT de 20 pulgadas E15 Plata;Adventure Works;Adventure Works;Economía;2020;Plata;NULL;957
 TV CRT de 20 pulgadas E15 Negro;Adventure Works;Adventure Works;Economía;2020;Negro;NULL;1055
 TV CRT de 20 pulgadas E15 Blanco;Adventure Works;Adventure Works;Economía;2020;Blanco;NULL;1128
 TV en color de 13 pulgadas E25 Plata;Adventure Works;Adventure Works;Economía;2020;Plata;NULL;834
@@ -1362,53 +1362,53 @@ DVD 16x M360 Plata;Southridge Video;Southridge Video;Normal;2020;Plata;NULL;978
 DVD 8x E130 Plata;Southridge Video;Southridge Video;Economía;2020;Plata;NULL;749
 DVD 8x E140 Plata;Southridge Video;Southridge Video;Economía;2020;Plata;NULL;871
 Canal de sistema Home Theater 4.1 M410 Negro;Litware, Inc.;Litware;Normal;2020;Negro;21.2 x 18.5 x 16.6;501
- Canal de sistema Home Theater 5.1 M511 Negro;Litware, Inc.;;Normal;2020;Negro;20 x 43 x 17;739
- Canal de sistema Home Theater 2.1 E210 Negro;Litware, Inc.;;Economía;2020;Negro;21 x 17.5 x 16.2;1139
- Canal de sistema Home Theater 5.1 M510 Negro;Litware, Inc.;;Normal;2020;Negro;23.8 x 20.8 x 19.6;440
- Canal de sistema Home Theater 2.1 E211 Negro;Litware, Inc.;;Economía;2020;Negro;17 x 16.3 x 3.3;1215
- Canal de sistema Home Theater 2.1 E212 Negro;Litware, Inc.;;Economía;2020;Negro;23 x 19 x 17;1011
+ Canal de sistema Home Theater 5.1 M511 Negro;Litware, Inc.;Litware;Normal;2020;Negro;20 x 43 x 17;739
+ Canal de sistema Home Theater 2.1 E210 Negro;Litware, Inc.;Litware;Economía;2020;Negro;21 x 17.5 x 16.2;1139
+ Canal de sistema Home Theater 5.1 M510 Negro;Litware, Inc.;Litware;Normal;2020;Negro;23.8 x 20.8 x 19.6;440
+ Canal de sistema Home Theater 2.1 E211 Negro;Litware, Inc.;Litware;Economía;2020;Negro;17 x 16.3 x 3.3;1215
+ Canal de sistema Home Theater 2.1 E212 Negro;Litware, Inc.;Litware;Economía;2020;Negro;23 x 19 x 17;1011
 Canal de sistema Home Theater 4.1 M411 Negro;Litware, Inc.;Litware;Normal;2020;Negro;8.9 x 1.8 x 10.4;197
- Canal de sistema Home Theater 4.1 M412 Negro;Litware, Inc.;;Normal;2020;Negro;23 x 20 x 19;419
+ Canal de sistema Home Theater 4.1 M412 Negro;Litware, Inc.;Litware;Normal;2020;Negro;23 x 20 x 19;419
 Canal de sistema Home Theater 4.1 M413 Negro;Litware, Inc.;Litware;Normal;2020;Negro;17 x 13.1 x 2.6;447
- Canal de sistema Home Theater 5.1 M512 Negro;Litware, Inc.;;Normal;2020;Negro;17 x 16.3 x 3.3;566
- Canal de sistema Home Theater 5.1 M513 Negro;Litware, Inc.;;Normal;2020;Negro;144 x 96 x 48;1091
- Canal de sistema Home Theater 7.1 M710 Negro;Litware, Inc.;;Normal;2020;Negro;18 x 39 x 31;493
- Canal de sistema Home Theater 7.1 X711 Negro;Litware, Inc.;;Deluxe;2020;Negro;20.3 x 21.8 x 12.2;79
- Canal de sistema Home Theater 5.1 M514 Negro;Litware, Inc.;;Normal;2020;Negro;19.8 x 25.3 x 22;682
+ Canal de sistema Home Theater 5.1 M512 Negro;Litware, Inc.;Litware;Normal;2020;Negro;17 x 16.3 x 3.3;566
+ Canal de sistema Home Theater 5.1 M513 Negro;Litware, Inc.;Litware;Normal;2020;Negro;144 x 96 x 48;1091
+ Canal de sistema Home Theater 7.1 M710 Negro;Litware, Inc.;Litware;Normal;2020;Negro;18 x 39 x 31;493
+ Canal de sistema Home Theater 7.1 X711 Negro;Litware, Inc.;Litware;Deluxe;2020;Negro;20.3 x 21.8 x 12.2;79
+ Canal de sistema Home Theater 5.1 M514 Negro;Litware, Inc.;Litware;Normal;2020;Negro;19.8 x 25.3 x 22;682
 Canal de sistema Home Theater 5.1 M515 Negro;Litware, Inc.;Litware;Normal;2020;Negro;21 x 22 x 31;1011
- Canal de sistema Home Theater 5.1 M516 Negro;Litware, Inc.;;Normal;2020;Negro;20.2 x 30.7 x 31.2;954
+ Canal de sistema Home Theater 5.1 M516 Negro;Litware, Inc.;Litware;Normal;2020;Negro;20.2 x 30.7 x 31.2;954
 Canal de sistema Home Theater 4.1 M410 Plata;Litware, Inc.;Litware;Normal;2020;Plata;21.2 x 18.5 x 16.6;702
- Canal de sistema Home Theater 5.1 M511 Plata;Litware, Inc.;;Normal;2020;Plata;17.3 x 13.6 x 2.6;812
- Canal de sistema Home Theater 2.1 E210 Plata;Litware, Inc.;;Economía;2020;Plata;23 x 20 x 19;981
- Canal de sistema Home Theater 5.1 M510 Plata;Litware, Inc.;;Normal;2020;Plata;16.7 x 17 x 3;480
- Canal de sistema Home Theater 2.1 E211 Plata;Litware, Inc.;;Economía;2020;Plata;23.8 x 20.8 x 19.6;1110
- Canal de sistema Home Theater 2.1 E212 Plata;Litware, Inc.;;Economía;2020;Plata;20 x 43 x 17;832
+ Canal de sistema Home Theater 5.1 M511 Plata;Litware, Inc.;Litware;Normal;2020;Plata;17.3 x 13.6 x 2.6;812
+ Canal de sistema Home Theater 2.1 E210 Plata;Litware, Inc.;Litware;Economía;2020;Plata;23 x 20 x 19;981
+ Canal de sistema Home Theater 5.1 M510 Plata;Litware, Inc.;Litware;Normal;2020;Plata;16.7 x 17 x 3;480
+ Canal de sistema Home Theater 2.1 E211 Plata;Litware, Inc.;Litware;Economía;2020;Plata;23.8 x 20.8 x 19.6;1110
+ Canal de sistema Home Theater 2.1 E212 Plata;Litware, Inc.;Litware;Economía;2020;Plata;20 x 43 x 17;832
 Canal de sistema Home Theater 4.1 M411 Plata;Litware, Inc.;Litware;Normal;2020;Plata;20.2 x 30.7 x 31.2;186
- Canal de sistema Home Theater 4.1 M412 Plata;Litware, Inc.;;Normal;2020;Plata;21.2 x 18.5 x 16.6;352
+ Canal de sistema Home Theater 4.1 M412 Plata;Litware, Inc.;Litware;Normal;2020;Plata;21.2 x 18.5 x 16.6;352
 Canal de sistema Home Theater 4.1 M413 Plata;Litware, Inc.;Litware;Normal;2020;Plata;20 x 43 x 17;445
- Canal de sistema Home Theater 5.1 M512 Plata;Litware, Inc.;;Normal;2020;Plata;21 x 17.5 x 16.2;736
- Canal de sistema Home Theater 5.1 M513 Plata;Litware, Inc.;;Normal;2020;Plata;23.8 x 20.8 x 19.6;1081
- Canal de sistema Home Theater 7.1 M710 Plata;Litware, Inc.;;Normal;2020;Plata;17 x 16.3 x 3.3;549
- Canal de sistema Home Theater 7.1 X711 Plata;Litware, Inc.;;Deluxe;2020;Plata;23 x 19 x 17;60
- Canal de sistema Home Theater 5.1 M514 Plata;Litware, Inc.;;Normal;2020;Plata;8.9 x 1.8 x 10.4;582
+ Canal de sistema Home Theater 5.1 M512 Plata;Litware, Inc.;Litware;Normal;2020;Plata;21 x 17.5 x 16.2;736
+ Canal de sistema Home Theater 5.1 M513 Plata;Litware, Inc.;Litware;Normal;2020;Plata;23.8 x 20.8 x 19.6;1081
+ Canal de sistema Home Theater 7.1 M710 Plata;Litware, Inc.;Litware;Normal;2020;Plata;17 x 16.3 x 3.3;549
+ Canal de sistema Home Theater 7.1 X711 Plata;Litware, Inc.;Litware;Deluxe;2020;Plata;23 x 19 x 17;60
+ Canal de sistema Home Theater 5.1 M514 Plata;Litware, Inc.;Litware;Normal;2020;Plata;8.9 x 1.8 x 10.4;582
 Canal de sistema Home Theater 5.1 M515 Plata;Litware, Inc.;Litware;Normal;2020;Plata;23 x 20 x 19;1094
- Canal de sistema Home Theater 5.1 M516 Plata;Litware, Inc.;;Normal;2020;Plata;17 x 13.1 x 2.6;964
+ Canal de sistema Home Theater 5.1 M516 Plata;Litware, Inc.;Litware;Normal;2020;Plata;17 x 13.1 x 2.6;964
 Canal de sistema Home Theater 4.1 M410 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;17 x 16.3 x 3.3;542
- Canal de sistema Home Theater 5.1 M511 Marrón;Litware, Inc.;;Normal;2020;Marrón;144 x 96 x 48;770
- Canal de sistema Home Theater 2.1 E210 Marrón;Litware, Inc.;;Economía;2020;Marrón;18 x 39 x 31;1231
- Canal de sistema Home Theater 5.1 M510 Marrón;Litware, Inc.;;Normal;2020;Marrón;20.3 x 21.8 x 12.2;479
- Canal de sistema Home Theater 2.1 E211 Marrón;Litware, Inc.;;Economía;2020;Marrón;19.8 x 25.3 x 22;1031
- Canal de sistema Home Theater 2.1 E212 Marrón;Litware, Inc.;;Economía;2020;Marrón;21 x 22 x 31;1040
+ Canal de sistema Home Theater 5.1 M511 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;144 x 96 x 48;770
+ Canal de sistema Home Theater 2.1 E210 Marrón;Litware, Inc.;Litware;Economía;2020;Marrón;18 x 39 x 31;1231
+ Canal de sistema Home Theater 5.1 M510 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;20.3 x 21.8 x 12.2;479
+ Canal de sistema Home Theater 2.1 E211 Marrón;Litware, Inc.;Litware;Economía;2020;Marrón;19.8 x 25.3 x 22;1031
+ Canal de sistema Home Theater 2.1 E212 Marrón;Litware, Inc.;Litware;Economía;2020;Marrón;21 x 22 x 31;1040
 Canal de sistema Home Theater 4.1 M411 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;20.2 x 30.7 x 31.2;183
- Canal de sistema Home Theater 4.1 M412 Marrón;Litware, Inc.;;Normal;2020;Marrón;21.2 x 18.5 x 16.6;418
+ Canal de sistema Home Theater 4.1 M412 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;21.2 x 18.5 x 16.6;418
 Canal de sistema Home Theater 4.1 M413 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;17.3 x 13.6 x 2.6;481
- Canal de sistema Home Theater 5.1 M512 Marrón;Litware, Inc.;;Normal;2020;Marrón;23 x 20 x 19;682
- Canal de sistema Home Theater 5.1 M513 Marrón;Litware, Inc.;;Normal;2020;Marrón;16.7 x 17 x 3;1000
- Canal de sistema Home Theater 7.1 M710 Marrón;Litware, Inc.;;Normal;2020;Marrón;23.8 x 20.8 x 19.6;867
- Canal de sistema Home Theater 5.1 X711 Marrón;Litware, Inc.;;Deluxe;2020;Marrón;20 x 43 x 17;188
- Canal de sistema Home Theater 5.1 M514 Marrón;Litware, Inc.;;Normal;2020;Marrón;20.2 x 30.7 x 31.2;524
+ Canal de sistema Home Theater 5.1 M512 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;23 x 20 x 19;682
+ Canal de sistema Home Theater 5.1 M513 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;16.7 x 17 x 3;1000
+ Canal de sistema Home Theater 7.1 M710 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;23.8 x 20.8 x 19.6;867
+ Canal de sistema Home Theater 5.1 X711 Marrón;Litware, Inc.;Litware;Deluxe;2020;Marrón;20 x 43 x 17;188
+ Canal de sistema Home Theater 5.1 M514 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;20.2 x 30.7 x 31.2;524
 Canal de sistema Home Theater 5.1 M515 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;21.2 x 18.5 x 16.6;987
- Canal de sistema Home Theater 5.1 M516 Marrón;Litware, Inc.;;Normal;2020;Marrón;20 x 43 x 17;793
+ Canal de sistema Home Theater 5.1 M516 Marrón;Litware, Inc.;Litware;Normal;2020;Marrón;20 x 43 x 17;793
 Canal de sistema Home Theater 2.1 E1200 Negro;Contoso, Ltd;Contoso;Economía;2020;Negro;21 x 17.5 x 16.2;951
 Canal de sistema Home Theater 2.1 M1210 Negro;Contoso, Ltd;Contoso;Normal;2020;Negro;23.8 x 20.8 x 19.6;1120
 Canal de sistema Home Theater 7.1 M1700 Negro;Contoso, Ltd;Contoso;Normal;2020;Negro;17 x 16.3 x 3.3;1010
@@ -1981,41 +1981,41 @@ Chandelier M8015 Azul;Litware, Inc.;Litware;Normal;2020;Azul;5 x 4 x 6.5;642
 Chandelier M6015 Azul;Litware, Inc.;Litware;Normal;2020;Azul;6 x 6 x 18 ;1007
 Lámpara de pared E2015 Azul;Litware, Inc.;Litware;Economía;2020;Azul;5 x 4 x 6.5;1086
 Lámpara de pared E3015 Azul;Litware, Inc.;Litware;Economía;2020;Azul;7 x 7 x 16.4;1208
- Aire acondicionado 25000 BTU L1672 Blanco;Contoso, Ltd;;Deluxe;2020;Blanco;19 x 34 x 21 ;899
- Aire acondicionado 12000 BTU M0640 Blanco;Contoso, Ltd;;Normal;2020;Blanco;15.5 x 18.5 x 12.5;682
- Aire acondicionado 10000 BTU M0490 Blanco;Contoso, Ltd;;Normal;2020;Blanco;15 x 25 x 18;642
- Aire acondicionado 80000 BTU M0320 Blanco;Contoso, Ltd;;Normal;2020;Blanco;14 x 26 x 18;969
- Aire acondicionado 70000 BTU E0260 Blanco;Contoso, Ltd;;Normal;2020;Blanco;11.4  x 8.9  x 21.1  ;1146
- Aire acondicionado 60000 BTU E0180 Blanco;Contoso, Ltd;;Economía;2020;Blanco;15 x 25 x 17;1181
- Aire acondicionado 52000 BTU E0100 Blanco;Contoso, Ltd;;Economía;2020;Blanco;14 x 26 x 19;1036
- Aire acondicionado 25000 BTU L1672 Red;Contoso, Ltd;;Deluxe;2020;Red;21.2 x 19 x 14 ;1064
- Aire acondicionado 12000 BTU M0640 Red;Contoso, Ltd;;Normal;2020;Red;21.7 x 20 x 15 ;661
- Aire acondicionado 10000 BTU M0490 Red;Contoso, Ltd;;Normal;2020;Red;21.2 x 19 x 14 ;556
- Aire acondicionado 80000 BTU M0320 Red;Contoso, Ltd;;Normal;2020;Red;12 x 15.5 x 11.8;703
- Aire acondicionado 70000 BTU E0260 Red;Contoso, Ltd;;Normal;2020;Red;14 x 26 x 19;829
- Aire acondicionado 60000 BTU E0180 Red;Contoso, Ltd;;Economía;2020;Red;21.2 x 19 x 14 ;1057
- Aire acondicionado 52000 BTU E0100 Red;Contoso, Ltd;;Economía;2020;Red;21.7 x 20 x 15 ;1095
- Aire acondicionado 25000 BTU L1672 Plata;Contoso, Ltd;;Deluxe;2020;Plata;21.2 x 19 x 14 ;1184
- Aire acondicionado 12000 BTU M0640 Plata;Contoso, Ltd;;Normal;2020;Plata;21.2 x 19 x 14 ;659
- Aire acondicionado 10000 BTU M0490 Plata;Contoso, Ltd;;Normal;2020;Plata;21.7 x 20 x 15 ;577
- Aire acondicionado 80000 BTU M0320 Plata;Contoso, Ltd;;Normal;2020;Plata;21.7 x 20 x 15 ;999
- Aire acondicionado 70000 BTU E0260 Plata;Contoso, Ltd;;Normal;2020;Plata;24.5 x 23.8 x 17.8;1099
- Aire acondicionado 60000 BTU E0180 Plata;Contoso, Ltd;;Economía;2020;Plata;21.2 x 19 x 14.2;1008
- Aire acondicionado 52000 BTU E0100 Plata;Contoso, Ltd;;Economía;2020;Plata;21.7 x 20 x 15.3;1069
- Aire acondicionado 25000 BTU L1672 Gris;Contoso, Ltd;;Deluxe;2020;Gris;21.2 x 19 x 14.2;905
- Aire acondicionado 12000 BTU M0640 Gris;Contoso, Ltd;;Normal;2020;Gris;21.2 x 19 x 14.1;590
- Aire acondicionado 10000 BTU M0490 Gris;Contoso, Ltd;;Normal;2020;Gris;21.7 x 20 x 15.4;520
- Aire acondicionado 80000 BTU M0320 Gris;Contoso, Ltd;;Normal;2020;Gris;21.7 x 20.5 x 15.7;877
- Aire acondicionado 70000 BTU E0260 Gris;Contoso, Ltd;;Normal;2020;Gris;21.2 x 19 x 14.8;822
- Aire acondicionado 60000 BTU E0180 Gris;Contoso, Ltd;;Economía;2020;Gris;21.7 x 20 x 15.5;1019
- Aire acondicionado 52000 BTU E0100 Gris;Contoso, Ltd;;Economía;2020;Gris;21.2 x 19 x 14.2;1087
- Aire acondicionado 25000 BTU L1672 Azul;Contoso, Ltd;;Deluxe;2020;Azul;21.2 x 19 x 14.3;1075
- Aire acondicionado 12000 BTU M0640 Azul;Contoso, Ltd;;Normal;2020;Azul;18 x 34 x 21.5;469
- Aire acondicionado 10000 BTU M0490 Azul;Contoso, Ltd;;Normal;2020;Azul;21.7 x 20 x 15.8;493
- Aire acondicionado 80000 BTU  M0320 Azul;Contoso, Ltd;;Normal;2020;Azul;19  x 20.5  x 3.4  ;1020
- Aire acondicionado 70000 BTU E0260 Azul;Contoso, Ltd;;Normal;2020;Azul;18  x 20.5  x 3.4  ;1021
- Aire acondicionado 60000 BTU E0180 Azul;Contoso, Ltd;;Economía;2020;Azul;21.2 x 19 x 14.1;1245
- Aire acondicionado 52000 BTU E0100 Azul;Contoso, Ltd;;Economía;2020;Azul;21.7 x 20 x 15.4;978
+ Aire acondicionado 25000 BTU L1672 Blanco;Contoso, Ltd;Contoso;Deluxe;2020;Blanco;19 x 34 x 21 ;899
+ Aire acondicionado 12000 BTU M0640 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;15.5 x 18.5 x 12.5;682
+ Aire acondicionado 10000 BTU M0490 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;15 x 25 x 18;642
+ Aire acondicionado 80000 BTU M0320 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;14 x 26 x 18;969
+ Aire acondicionado 70000 BTU E0260 Blanco;Contoso, Ltd;Contoso;Normal;2020;Blanco;11.4  x 8.9  x 21.1  ;1146
+ Aire acondicionado 60000 BTU E0180 Blanco;Contoso, Ltd;Contoso;Economía;2020;Blanco;15 x 25 x 17;1181
+ Aire acondicionado 52000 BTU E0100 Blanco;Contoso, Ltd;Contoso;Economía;2020;Blanco;14 x 26 x 19;1036
+ Aire acondicionado 25000 BTU L1672 Red;Contoso, Ltd;Contoso;Deluxe;2020;Red;21.2 x 19 x 14 ;1064
+ Aire acondicionado 12000 BTU M0640 Red;Contoso, Ltd;Contoso;Normal;2020;Red;21.7 x 20 x 15 ;661
+ Aire acondicionado 10000 BTU M0490 Red;Contoso, Ltd;Contoso;Normal;2020;Red;21.2 x 19 x 14 ;556
+ Aire acondicionado 80000 BTU M0320 Red;Contoso, Ltd;Contoso;Normal;2020;Red;12 x 15.5 x 11.8;703
+ Aire acondicionado 70000 BTU E0260 Red;Contoso, Ltd;Contoso;Normal;2020;Red;14 x 26 x 19;829
+ Aire acondicionado 60000 BTU E0180 Red;Contoso, Ltd;Contoso;Economía;2020;Red;21.2 x 19 x 14 ;1057
+ Aire acondicionado 52000 BTU E0100 Red;Contoso, Ltd;Contoso;Economía;2020;Red;21.7 x 20 x 15 ;1095
+ Aire acondicionado 25000 BTU L1672 Plata;Contoso, Ltd;Contoso;Deluxe;2020;Plata;21.2 x 19 x 14 ;1184
+ Aire acondicionado 12000 BTU M0640 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;21.2 x 19 x 14 ;659
+ Aire acondicionado 10000 BTU M0490 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;21.7 x 20 x 15 ;577
+ Aire acondicionado 80000 BTU M0320 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;21.7 x 20 x 15 ;999
+ Aire acondicionado 70000 BTU E0260 Plata;Contoso, Ltd;Contoso;Normal;2020;Plata;24.5 x 23.8 x 17.8;1099
+ Aire acondicionado 60000 BTU E0180 Plata;Contoso, Ltd;Contoso;Economía;2020;Plata;21.2 x 19 x 14.2;1008
+ Aire acondicionado 52000 BTU E0100 Plata;Contoso, Ltd;Contoso;Economía;2020;Plata;21.7 x 20 x 15.3;1069
+ Aire acondicionado 25000 BTU L1672 Gris;Contoso, Ltd;Contoso;Deluxe;2020;Gris;21.2 x 19 x 14.2;905
+ Aire acondicionado 12000 BTU M0640 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;21.2 x 19 x 14.1;590
+ Aire acondicionado 10000 BTU M0490 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;21.7 x 20 x 15.4;520
+ Aire acondicionado 80000 BTU M0320 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;21.7 x 20.5 x 15.7;877
+ Aire acondicionado 70000 BTU E0260 Gris;Contoso, Ltd;Contoso;Normal;2020;Gris;21.2 x 19 x 14.8;822
+ Aire acondicionado 60000 BTU E0180 Gris;Contoso, Ltd;Contoso;Economía;2020;Gris;21.7 x 20 x 15.5;1019
+ Aire acondicionado 52000 BTU E0100 Gris;Contoso, Ltd;Contoso;Economía;2020;Gris;21.2 x 19 x 14.2;1087
+ Aire acondicionado 25000 BTU L1672 Azul;Contoso, Ltd;Contoso;Deluxe;2020;Azul;21.2 x 19 x 14.3;1075
+ Aire acondicionado 12000 BTU M0640 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;18 x 34 x 21.5;469
+ Aire acondicionado 10000 BTU M0490 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;21.7 x 20 x 15.8;493
+ Aire acondicionado 80000 BTU  M0320 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;19  x 20.5  x 3.4  ;1020
+ Aire acondicionado 70000 BTU E0260 Azul;Contoso, Ltd;Contoso;Normal;2020;Azul;18  x 20.5  x 3.4  ;1021
+ Aire acondicionado 60000 BTU E0180 Azul;Contoso, Ltd;Contoso;Economía;2020;Azul;21.2 x 19 x 14.1;1245
+ Aire acondicionado 52000 BTU E0100 Azul;Contoso, Ltd;Contoso;Economía;2020;Azul;21.7 x 20 x 15.4;978
 Aire acondicionado 25000 BTU L167 Blanco;Proseware, Inc.;Proseware;Deluxe;2020;Blanco;25 x 23 x 17;175
 Aire acondicionado 12000 BTU M640 Blanco;Proseware, Inc.;Proseware;Normal;2020;Blanco;24 x 23.8 x 18.8;523
 Aire acondicionado 10000 BTU M490 Blanco;Proseware, Inc.;Proseware;Normal;2020;Blanco;25.4 x 23.3 x 17.9;637
